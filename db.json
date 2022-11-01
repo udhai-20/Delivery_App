@@ -1,0 +1,28 @@
+{
+  "CartItems": [
+    {
+      "title": "pomegranate",
+      "qty": 1,
+      "price": "8",
+      "id": "1666795377217",
+      "calories": "2.5",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-9e4a5.appspot.com/o/Images%2F1666795363560-f6.png?alt=media&token=b3f83a6f-9d80-4052-9d04-301d6b8fe997",
+      "catagory": "Fruits"
+    },
+    {
+      "title": "mixed",
+      "catagory": "Fruits",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/food-delivery-app-9e4a5.appspot.com/o/Images%2F1666838526301-fi1.png?alt=media&token=d9caf45a-0218-4656-9f3a-2123cd39bc63",
+      "price": "22",
+      "calories": "1.2",
+      "qty": 1,
+      "id": "1666838557789"
+    },
+    {
+      "id": "XPTb375"
+    },
+    {
+      "id": "iYAyCTs"
+    }
+  ]
+}
